@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OffshoreBuild - Energia z morza</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header { background-color: #005580; color: white; padding: 40px 20px; text-align: center; }
+    nav { background: #003f5c; color: white; padding: 10px 0; text-align: center; }
+    nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: bold; }
+    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
+    .highlight { color: #005580; font-weight: bold; }
+    footer { background: #f2f2f2; padding: 20px; text-align: center; font-size: 0.9em; color: #555; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>OffshoreBuild</h1>
+    <p><strong>Energia przyszłości prosto z morza</strong></p>
+  </header>
+  <nav>
+    <a href="#oferta">Oferta</a>
+    <a href="#dlaczego">Dlaczego my</a>
+    <a href="#kontakt">Kontakt</a>
+  </nav>
+  <section id="oferta">
+    <h2>Nasza oferta</h2>
+    <ul>
+      <li>Projektowanie i budowa turbin offshore</li>
+      <li>Transport, montaż i instalacja na morzu</li>
+      <li>Obsługa logistyczna i techniczna</li>
+      <li>Wsparcie projektowe i dokumentacyjne</li>
+      <li>Serwis i konserwacja po uruchomieniu</li>
+    </ul>
+  </section>
+  <section id="dlaczego">
+    <h2>Dlaczego OffshoreBuild?</h2>
+    <p><span class="highlight">Doświadczenie techniczne</span> – zespół z międzynarodowym know-how.</p>
+    <p><span class="highlight">Zrównoważony rozwój</span> – niskie emisje, zgodność z normami ESG.</p>
+    <p><span class="highlight">Innowacyjne rozwiązania</span> – własne patenty i systemy montażowe.</p>
+    <p><span class="highlight">Współpraca B2G</span> – dla instytucji rządowych.</p>
+  </section>
+  <section id="kontakt">
+    <h2>Kontakt</h2>
+    <p><strong>OffshoreBuild Sp. z o.o.</strong><br>
+    ul. Wiatrakowa 12<br>
+    00-001 Gdańsk, Polska</p>
+    <p><strong>Email:</strong> kontakt@offshorebuild.com<br>
+    <strong>Telefon:</strong> +48 500 800 900<br>
+    <strong>Strona:</strong> www.offshorebuild.com</p>
+  </section>
+  <footer>
+    &copy; 2025 OffshoreBuild Sp. z o.o. Wszelkie prawa zastrzeżone.
+  </footer>
+</body>
+</html>
